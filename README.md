@@ -1,1 +1,1 @@
-# ETL-Project
+# This is the repo for the ETL Project. The final ETL Data Excel is uploaded on it's own, but I've also uploaded my ETL Folder with the resources and Pandas file in case you wish to view my methods of data extraction.
